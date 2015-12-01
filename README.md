@@ -1,7 +1,8 @@
 --------------------------------------------------------------------------------------------
-
+This project is a part of our internet programming lab-cs405.
+university : B.S.ABDUR RAHMAN UNIVERSITY.
 Project name:E-tuition
-Project team members:Anurudhri,Afra banu
+Project team members:Anurudhri,Afra banu [final year].
 Instructor name:Dr.R.Shriram
 
 --------------------------------------------------------------------------------------------
